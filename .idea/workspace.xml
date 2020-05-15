@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbf3b69-649c-4ef0-a5c9-e1bb7840265b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extentTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestAutomationProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test_PUT_Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_PUT_Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwoPwnu4oRQe9EYblPNK1ZRQwS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/pramodmallick/Working/MyGIT/RESTAssured_Maven_TestNG_ExtentReport/testng.xml">
+    <configuration name="Test_GET_Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssured_Maven_TestNG_ExtentReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.Test_GET_Request" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_PUT_Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssured_Maven_TestNG_ExtentReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.Test_PUT_Request" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/pramodmallick/Working/MyGIT/RESTAssured_Maven_TestNG_ExtentReport/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAssured_Maven_TestNG_ExtentReport" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/pramodmallick/Working/MyGIT/RESTAssured_Maven_TestNG_ExtentReport/testng.xml" />
+        <item itemvalue="TestNG.Test_PUT_Request" />
+        <item itemvalue="TestNG.Test_GET_Request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbf3b69-649c-4ef0-a5c9-e1bb7840265b" name="Default Changelist" comment="" />
+      <created>1589552496640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589552496640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="56" key="#Project_Structure" timestamp="1589552525768">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="240" y="56" key="#Project_Structure/0.23.1280.733@0.23.1280.733" timestamp="1589552525768" />
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom" timestamp="1589554285382">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1589554285382" />
+    <state width="1238" height="183" key="GridCell.Tab.0.center" timestamp="1589554285382">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1589554285382" />
+    <state width="1238" height="183" key="GridCell.Tab.0.left" timestamp="1589554285381">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1589554285381" />
+    <state width="1238" height="183" key="GridCell.Tab.0.right" timestamp="1589554285382">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1589554285382" />
+  </component>
+</project>

@@ -20,9 +20,6 @@ public class Test_PUT_Request extends ExtentReportSetup
     {
         test = extent.createTest("Create employee data");
 
-//        test.info("rest api test staring with URI: "  + str_baseURI);
-//        test.pass("string - test.pass method");
-
         RestAssured.baseURI = str_baseURI;
 
         RequestSpecification request = RestAssured.given();
