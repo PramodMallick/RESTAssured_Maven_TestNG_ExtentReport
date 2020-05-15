@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="MyTestSuite" parallel="tests">
+    <test name="TestNGXML_TestName_1">
+        <classes>
+            <class name="test.java.Test_PUT_Request"/>
+            <class name="test.java.Test_GET_Request"/>
+        </classes>
+    </test>
+</suite>
